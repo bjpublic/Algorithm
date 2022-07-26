@@ -5,4 +5,4 @@
 https://github.com/Kyeongrok/python_algorithm
 
 위 Git Repositroy를 참고하시거나, 
-https://bjpublic.tistory.com/434에서 "예제 파일 받기"를 클릭하셔서 다운로드해 주세요!  
+https://bjpublic.tistory.com/434 에서 "예제 파일 받기"를 클릭하셔서 다운로드해 주세요!  
